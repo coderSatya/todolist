@@ -1,0 +1,14 @@
+.deleteIcon{
+    margin-left: 30px;
+}
+.items{
+    background-color: blue;
+    margin: auto;
+    display: block;
+    width: 500px;
+    color: white;
+    font-weight: bold;
+}
+.button{
+    margin:15px;
+}
